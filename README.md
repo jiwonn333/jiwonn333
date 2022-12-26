@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🌱개발자 새싹단계 ...
 
 <!--
 **jiwonn333/jiwonn333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
