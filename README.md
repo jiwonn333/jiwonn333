@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
+<img align="left" width="130" src="https://github.com/jiwonn333/jiwonn333/assets/84057628/1e2b715c-76e5-47a6-89df-9fa71df6b025.gif" />
 
-<!--
-**jiwonn333/jiwonn333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  ### Happy Jiwon
+  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://velog.io/@jiwon3378"><img src="https://img.shields.io/badge/HappyJiwon.log-3DDC84?style=flat&logo=Velog&logoColor=white"/></a> <a href="https://github.com/jiwonn333"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiwonn333&count_bg=%23000000&title_bg=%23A9A9A9&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:shinjiwon3378@gmail.com)](mailto:shinjiwon3378@gmail.com)
+
+---
+
+</div>
